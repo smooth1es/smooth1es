@@ -1,2 +1,2 @@
-i'm @smooth1es
-rn learning python and have some knowledge of html+css+js
+i am @smooth1es
+studying to be a backend dev someday!
